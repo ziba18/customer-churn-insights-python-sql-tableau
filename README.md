@@ -1,4 +1,7 @@
-# 📊 Customer Churn Insights (Python, SQL, Excel, Tableau)
+<img width="1536" height="1024" alt="ChatGPT Image Jul 30, 2025, 02_04_31 PM" src="https://github.com/user-attachments/assets/8964f9fd-bb57-46a9-984e-54dddfe05994" />
+
+# 📊 Customer Churn In
+sights (Python, SQL, Excel, Tableau)
 
 This project explores and analyzes customer churn data to identify key patterns and factors that contribute to customer attrition. It combines multiple tools and techniques—**Python**, **SQL**, **Excel**, and **Tableau**—to deliver a complete, end-to-end data analysis workflow.
 
