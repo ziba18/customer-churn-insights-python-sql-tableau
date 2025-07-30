@@ -76,7 +76,7 @@ customer-churn-insights-python-sql-tableau/
 
 ## 💼 About Me
 
-I'm Ziba, an aspiring data analyst with a strong interest in real-world, impactful projects. This project is part of my journey through the Google Data Analytics Certificate and daily Python practice.
+I'm Ziba, a data scientist with a strong interest in real-world, impactful projects. This project is part of my journey through the Google Data Analytics Certificate and daily Python practice.
 
 ---
 
