@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jul 30, 2025, 02_04_31 PM" src="https://github.com/user-attachments/assets/8964f9fd-bb57-46a9-984e-54dddfe05994" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 30, 2025, 02_15_57 PM" src="https://github.com/user-attachments/assets/ed7ef6c1-35a9-402a-818f-b947feb507a4" />
 
 # 📊 Customer Churn In
 sights (Python, SQL, Excel, Tableau)
