@@ -15,16 +15,11 @@ To uncover actionable insights that can help reduce customer churn and improve c
 
 ## 📁 Tools & Technologies Used
 
-- 🐍 Python (Pandas, Seaborn, Matplotlib)
-- 🗄️ SQL (SQLite & queries via Python or GUI)
-- 📊 Excel (Pivot Tables, Charts, Functions)
-- 📈 Tableau (Interactive dashboards & visuals)
-- 📁 Jupyter Notebook
-- 📌 GitHub (Version control & project hosting)
-
+-  Python (Pandas, Seaborn, Matplotlib)
+-  Jupyter Notebook
 ---
 
-## 🧼 Data Source & Preparation
+##  Data Source & Preparation
 
 - Dataset: `customer_churn_data.csv`  
 - Steps performed:
@@ -62,22 +57,6 @@ customer-churn-insights-python-sql-tableau/
 │   └── churn_summary.pdf
 ├── README.md
 ```
-
 ---
 
 ## ✅ Next Steps
-
-- [ ] Polish Tableau dashboard and publish to Tableau Public
-- [ ] Finalize SQL query scripts and documentation
-- [ ] Upload project walkthrough to LinkedIn
-- [ ] Add short Loom or YouTube demo (optional)
-
----
-
-## 💼 About Me
-
-I'm Ziba, a data scientist with a strong interest in real-world, impactful projects. This project is part of my journey through the Google Data Analytics Certificate and daily Python practice.
-
----
-
-> 🚀 *If you found this helpful or inspiring, feel free to star this repo or share feedback!*
