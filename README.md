@@ -57,6 +57,3 @@ customer-churn-insights-python-sql-tableau/
 │   └── churn_summary.pdf
 ├── README.md
 ```
----
-
-## ✅ Next Steps
